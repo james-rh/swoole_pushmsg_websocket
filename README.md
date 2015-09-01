@@ -2,7 +2,8 @@
 
 纯php扩展swoole 1.7.18 的websocket消息推送(安卓及ios设备) 
 
-swoole 为当前最新版本 1.7.18
+swoole 为当前最新版本 1.7.18  
+在centos 6.5 及 乌班图14.4server 测试通过. 其余linux服务器未知
 
 本版本涵盖 用户版, 商户版,合作商版 的IOS及安卓APP推送. 
 
